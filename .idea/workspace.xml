@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cc5a407-48ba-4657-885c-8d973ae5ecbf" name="Changes" comment="final version">
-      <change beforePath="$PROJECT_DIR$/find_median.py" beforeDir="false" afterPath="$PROJECT_DIR$/find_median.py" afterDir="false" />
+    <list default="true" id="6cc5a407-48ba-4657-885c-8d973ae5ecbf" name="Changes" comment="fixed minor errors, final version">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +62,29 @@
       <option name="project" value="LOCAL" />
       <updated>1721886585568</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed errors">
+      <option name="closed" value="true" />
+      <created>1721886889812</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721886889812</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed minor errors, final version">
+      <option name="closed" value="true" />
+      <created>1721887103353</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721887103353</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="final version" />
-    <option name="LAST_COMMIT_MESSAGE" value="final version" />
+    <MESSAGE value="fixed errors" />
+    <MESSAGE value="fixed minor errors, final version" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed minor errors, final version" />
   </component>
 </project>

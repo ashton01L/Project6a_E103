@@ -5,6 +5,11 @@
 # as a parameter a list of numbers.
 
 def find_median(num):
+    """
+    Returns None if there's no number
+    :param num: list of values
+    :return: None if no values entered or median value of list
+    """
     if not num:
         return None
 
@@ -18,7 +23,7 @@ def find_median(num):
         right_middle = num[n // 2]
         median = (left_middle + right_middle) / 2
 
-#     return median
+    return median
 
 # Test 1: Five integers
 # list1 = [49, 16, 8, 49]
